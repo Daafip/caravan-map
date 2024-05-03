@@ -7,20 +7,20 @@ This saves you from downloading and reading the whole dataset hosted on [zenodo]
 These maps are meant to easily explore the availible catchments. 
 
 Can be viewed online using [nbviewer](https://nbviewer.org) using the links below:
-[United States of America](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_United_States_of_America.html)<br>
-[Australia](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Australia.html)<br>
-[Brazil](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Brazil.html)<br>
-[Chile](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Chile.html)<br>
-[Scotland](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Scotland.html)<br>
-[England](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_England.html)<br>
-[Wales](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Wales.html)<br>
-[Canada](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Canada.html)<br>
-[Mexico](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Mexico.html)<br>
-[Germany](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Germany.html)<br>
-[Switzerland](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Switzerland.html)<br>
-[Austria](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Austria.html)<br>
-[Lichtenstein](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Lichtenstein.html)<br>
-[Czech Republic](https://nbviewer.org/github/Daafip/caravan-map/blob/main/caravan_catchments_map_Czech_Republic.html)<br>
+ [United States of America](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_United_States_of_America.html)<br>
+ [Australia](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Australia.html)<br>
+ [Brazil](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Brazil.html)<br>
+ [Chile](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Chile.html)<br>
+ [Scotland](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Scotland.html)<br>
+ [England](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_England.html)<br>
+ [Wales](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Wales.html)<br>
+ [Canada](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Canada.html)<br>
+ [Mexico](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Mexico.html)<br>
+ [Germany](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Germany.html)<br>
+ [Switzerland](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Switzerland.html)<br>
+ [Austria](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Austria.html)<br>
+ [Lichtenstein](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Lichtenstein.html)<br>
+ [Czech Republic](https://nbviewer.org/github/Daafip/caravan-map/blob/main/maps/caravan_catchments_map_Czech_Republic.html)<br>
 
 The maps is too large for the whole world to host here, but can be generated using the code provided. 
 
